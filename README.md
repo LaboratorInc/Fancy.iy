@@ -12,7 +12,11 @@ If you want to disable Fancy Beta, open the "fancy.json" file, find the "beta" s
 
 # License
 
-TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
 
