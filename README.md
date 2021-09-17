@@ -10,11 +10,9 @@ Fancy Beta is a modding system for Infinite Yield that can contain bugs in there
 
 If you want to disable Fancy Beta, open the "fancy.json" file, find the "beta" section, replace "true" to "false" and it should run Fancy's latest release version.
 
-# License *Apache*
+# License *http://www.apache.org/licenses/*
 
-Apache License *Version 2.0, January 2004 http://www.apache.org/licenses/*
-
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
 
@@ -187,24 +185,7 @@ Apache License *Version 2.0, January 2004 http://www.apache.org/licenses/*
 
    END OF TERMS AND CONDITIONS
 
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
    Copyright [2021] [Laborator Inc.]
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
 
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
