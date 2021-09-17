@@ -1,12 +1,11 @@
-# Fancy
+**Fancy Release Reporting:** *REPORT ANY ISSUES IN THE ISSUE SECTION WITH THE 'bug' LABEL ONLY, DO NOT USE 'beta' LABEL IF THE BUG IS IN THE RELEASE*
+**Fancy Beta Reporting:** *REPORT ANY ISSUES IN THE ISSUE SECTION WITH THE 'bug' AND 'beta' LABEL*
 
-*REPORT ANY ISSUES IN THE ISSUE SECTION*
+# Fancy
 
 Fancy is a modding system for Infinite Yield and gives multi-experience with Infinite Yield. If you wanna try it, you're more welcome!
 
 # Fancy Beta
-
-*ANYONE CAN USE FANCY BETA, REPORT ANY ISSUES IN THE ISSUE SECTION*
 
 Fancy Beta is a modding system for Infinite Yield that can contain bugs in there just in-case, if you want to run the Beta version, open the "fancy.json" file, find the "beta" section, replace the "false" to "true" and relaunch Infinite Yield and it should run Fancy's latest beta version.
 
