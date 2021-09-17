@@ -10,7 +10,7 @@ Fancy Beta is a modding system for Infinite Yield that can contain bugs in there
 
 If you want to disable Fancy Beta, open the "fancy.json" file, find the "beta" section, replace "true" to "false" and it should run Fancy's latest release version.
 
-# License *http://www.apache.org/licenses/*
+# License - *Apache http://www.apache.org/licenses/*
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
