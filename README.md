@@ -1,7 +1,3 @@
-# Important
-
-*REPORT ANY BUGS TO THE ISSUE SECTION INSTEAD OF DIRECT MESSAGING THE CREATOR OF FANCY ON DISCORD.*
-
 # Fancy
 
 Fancy is a modding system for Infinite Yield and gives multi-experience with Infinite Yield. If you wanna try it, you're more welcome!
