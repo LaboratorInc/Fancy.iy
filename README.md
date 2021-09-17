@@ -6,7 +6,7 @@
 
 Fancy is a modding system for Infinite Yield and gives multi-experience with Infinite Yield. If you wanna try it, you're more welcome!
 
-# Fancy Beta
+# Fancy Beta *COMING SOON*
 
 Fancy Beta is a modding system for Infinite Yield that can contain bugs in there just in-case, if you want to run the Beta version, open the "fancy.json" file, find the "beta" section, replace the "false" to "true" and relaunch Infinite Yield and it should run Fancy's latest beta version.
 
